@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatgithub58&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatgithub58" /> </p>
 
-- 🌱 I’m currently learning **Back-end Developer, BCA**
+- 🌱 I’m currently learning **Full Stack App Development, BCA**
 
 - 📫 How to reach me **rahmatullahmd156@gmail.com**
 
-- ⚡ Fun fact **I am funny😍**
+- ⚡ Fun fact **I am funny😍 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
