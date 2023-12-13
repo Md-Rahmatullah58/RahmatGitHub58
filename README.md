@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Md Rahmatullah</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&ehk=PrEGdwL4PhD7Z%2fwJCNJ7ZoCNkliX6f%2bNR0nwPKvtck4%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatgithub58&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatgithub58" /> </p>
 
-- 🌱 I’m currently learning **Full Stack App Development, BCA**
+- 🌱 I’m currently learning **Full Networking like CCNA, MCSA, LINUX, AZURE, HACKING After That Enter in CCNP **
 
 - 📫 How to reach me **rahmatullahmd156@gmail.com**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/r@hmat321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r@hmat321" height="30" width="40" /></a>
 <a href="https://fb.com/md rahmatullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md rahmatullah" height="30" width="40" /></a>
-<a href="https://instagram.com/itz--rahmat--imr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz--rahmat--imr" height="30" width="40" /></a>
+<a href="https://instagram.com/itz--rahmat--imrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz--rahmat--imr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@mdrahmatullah-fx6bz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mdrahmatullah-fx6bz" height="30" width="40" /></a>
 </p>
 
